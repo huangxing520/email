@@ -1,0 +1,3 @@
+- add: http://localhost:8011/email/add?name=test111&birthday=10_20
+- delete: http://localhost:8011/email/delete?name=test111
+- list: http://localhost:8011/email/list
